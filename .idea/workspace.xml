@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70ef8ab8-0d8c-4d91-aae8-d5ddeb5160f4" name="Changes" comment="release without any issue" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[4TTCKFBQUSWOFMKF]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/nativetemplates">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Locator 360" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Locator 360" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Locator 360" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Locator 360" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\projects\Keys\SignedKeys\FindMyFamilyandFriendsKeystore.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/app/AppCompatDelegateImpl.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MP0Qpt7DCzMlUPvb2YU42w6OVo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ApkExportedModule&quot;: &quot;Locator_360.app&quot;,
+    &quot;BundleExportedModule&quot;: &quot;Locator_360.app&quot;,
+    &quot;DEBUGGABLE_DEVICE&quot;: &quot;xiaomi-220233l2g-4TTCKFBQUSWOFMKF&quot;,
+    &quot;DEBUGGABLE_PROCESS&quot;: &quot;com.care360.findmyfamilyandfriends&quot;,
+    &quot;DEBUGGER_ID&quot;: &quot;Auto&quot;,
+    &quot;ExportApk.ApkPathForLocator_360.app&quot;: &quot;D:\\projects\\Locator_360&quot;,
+    &quot;ExportBundle.BundlePathForLocator_360.app&quot;: &quot;D:\\projects\\Locator_360&quot;,
+    &quot;PROJECT_TRUSTED_KEY&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHOW_ALL_PROCESSES&quot;: &quot;false&quot;,
+    &quot;WORKMANAGER_INSPECTOR_NOTIFICATION_DISMISSED&quot;: &quot;true&quot;,
+    &quot;android-custom-viewC:/Users/LINE/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.6/25ece06338d39da1fdc9d8488aa57b5014866918/fragment-1.3.6-sources.jar!/androidx/fragment/app/FragmentContainerView.java_SELECTED&quot;: &quot;FragmentContainerView&quot;,
+    &quot;android-custom-viewC:/Users/LINE/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-viewC:/Users/LINE/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_SELECTED&quot;: &quot;ViewPager&quot;,
+    &quot;android-custom-viewC:/Users/LINE/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_SELECTED&quot;: &quot;ViewPager2&quot;,
+    &quot;android-custom-viewC:/Users/LINE/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.6.1/d4d703885d24c61bc0ec39a9a705969e41d773ef/material-1.6.1-sources.jar!/com/google/android/material/tabs/TabLayout.java_SELECTED&quot;: &quot;TabLayout&quot;,
+    &quot;android-custom-viewC:/Users/LINE/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.8.0/60ab9cfeed56173f0fb0c798009d91e049bbbba1/material-1.8.0-sources.jar!/com/google/android/material/navigation/NavigationBarView.java_SELECTED&quot;: &quot;NavigationBarView&quot;,
+    &quot;android-custom-viewC:/Users/LINE/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/tabs/TabLayout.java_SELECTED&quot;: &quot;TabLayout&quot;,
+    &quot;android-custom-viewC:/Users/LINE/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;android-custom-viewC:/Users/LINE/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_SELECTED&quot;: &quot;TextView&quot;,
+    &quot;android-custom-viewC:/Users/LINE/AppData/Local/Android/Sdk/sources/android-33/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;android-custom-viewD:/projects/Locator360/nativetemplates/src/main/java/com/google/android/ads/nativetemplates/TemplateView.java_SELECTED&quot;: &quot;TemplateView&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/projects/Locator_360/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/projects/Locator_360&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Dependencies&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;instant.run&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ExportApk.BuildVariants&quot;: [
+      &quot;release&quot;
+    ]
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1784139524">
+      <recent name="com.care360.findmyfamilyandfriends.subscription" />
+    </key>
+    <key name="android.template.-1567885291">
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.yearData" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.weekData" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.monthData" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.dayData" />
+    </key>
+    <key name="android.template.1329106452">
+      <recent name="com.care360.findmyfamilyandfriends.onBoarding" />
+      <recent name="com.care360.findmyfamilyandfriends.Permission" />
+    </key>
+    <key name="android.template.734899265">
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.subfragments" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.care360.findmyfriendsandfamily.HomeScreen.ui" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.viewPager_adapter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.care360.findmyfamilyandfriends.Util" />
+      <recent name="com.care360.findmyfriendsandfamily.HomeScreen.ui.Driving.movement_record.dayData" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.yearData.adapter" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.weekData.adapter" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.monthData.adapter" />
+    </key>
+    <key name="android.template.597745277">
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.subfragments.year" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.subfragments.week" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.subfragments.month" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.subfragments" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\Locator_360\app\src\main\res\drawable" />
+      <recent name="D:\projects\Locator360\app" />
+      <recent name="D:\projects\Locator360\app\src\main\res\drawable" />
+      <recent name="D:\projects\Locator360\app\src\main\res\raw" />
+      <recent name="D:\projects\Locator360\app\src\main\res\layout" />
+    </key>
+    <key name="android.template.-501699268">
+      <recent name="com.care360.findmyfamilyandfriends.StartScreen" />
+    </key>
+    <key name="android.template.-1490884489">
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen" />
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.Driving" />
+    </key>
+    <key name="android.template.2086405530">
+      <recent name="com.care360.findmyfamilyandfriends" />
+    </key>
+    <key name="android.template.-1680048390">
+      <recent name="com.care360.findmyfamilyandfriends.update_manager" />
+    </key>
+    <key name="android.template.-1082286117">
+      <recent name="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.movement_record.charts" />
+    </key>
+    <key name="android.template.42117155">
+      <recent name="com.care360.findmyfamilyandfriends.onBoarding" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle sigingReport" />
+      <command value="gradle signingReport" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.findmyfamily">
+    <configuration name="findmyfamily" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Locator_360.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="true" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locator360 [sigingReport]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sigingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Locator360 [signingReport]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.findmyfamily" />
+      <item itemvalue="Gradle.Locator360 [sigingReport]" />
+      <item itemvalue="Gradle.Locator360 [signingReport]" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70ef8ab8-0d8c-4d91-aae8-d5ddeb5160f4" name="Changes" comment="" />
+      <created>1677653897703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677653897703</updated>
+    </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1677654185438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677654185438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final commit with ads">
+      <created>1677743432987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677743432987</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final commit with ads+subscription">
+      <created>1677827038978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677827038978</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ads+subscription+notify">
+      <created>1678430177454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678430177454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ads+subscription+notify">
+      <created>1678430382362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678430382362</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ads+subscription+notify">
+      <created>1681910363438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681910363438</updated>
+    </task>
+    <task id="LOCAL-00007" summary="startup fix">
+      <created>1683026478456</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683026478456</updated>
+    </task>
+    <task id="LOCAL-00008" summary="small issues resolved">
+      <created>1683033130277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683033130277</updated>
+    </task>
+    <task id="LOCAL-00009" summary="crashes with some issues and handling">
+      <created>1683120263652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683120263652</updated>
+    </task>
+    <task id="LOCAL-00010" summary="with broadcast issue">
+      <created>1683293399633</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683293399633</updated>
+    </task>
+    <task id="LOCAL-00011" summary="release with issue of activity report">
+      <created>1685369088102</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685369088102</updated>
+    </task>
+    <task id="LOCAL-00012" summary="release with issue of activity report2">
+      <created>1685445063928</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685445063928</updated>
+    </task>
+    <task id="LOCAL-00013" summary="release without any issue">
+      <created>1687496342600</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687496342600</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="final commit" />
+    <MESSAGE value="final commit with ads" />
+    <MESSAGE value="final commit with ads+subscription" />
+    <MESSAGE value="ads+subscription+notify" />
+    <MESSAGE value="startup fix" />
+    <MESSAGE value="small issues resolved" />
+    <MESSAGE value="crashes with some issues and handling" />
+    <MESSAGE value="with broadcast issue" />
+    <MESSAGE value="release with issue of activity report" />
+    <MESSAGE value="release with issue of activity report2" />
+    <MESSAGE value="release without any issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="release without any issue" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/SharedPreference/SharedPreference.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/HomeScreen/receiver/ActivityTransitionReceiver.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/HomeScreen/HomeActivity.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/OneTimeScreens/JoinCircleActivity.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/HomeScreen/ui/Driving/DrivingFragment.java</url>
+          <line>280</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/HomeScreen/HomeActivity.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/HomeScreen/ui/Driving/adapters/ViewPagerAdapter.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/HomeScreen/ui/Driving/movement_record/monthData/MonthDataFragment.java</url>
+          <line>431</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/SharedPreference/ResetPassword/ByPhoneNo/OTPActivity.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/SharedPreference/ResetPassword/ByPhoneNo/OTPActivity.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/SharedPreference/ResetPassword/ByPhoneNo/OTPActivity.java</url>
+          <line>319</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/care360/findmyfamilyandfriends/HomeScreen/ui/Driving/adapters/ViewPagerAdapter.java</url>
+          <line>120</line>
+          <properties class="com.care360.findmyfamilyandfriends.HomeScreen.ui.Driving.adapters.ViewPagerAdapter.DayMapClicked" method="DayMapButtonClicked">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.google.android.gms.location.ActivityTransitionResult" memberName="zza" />
+        <PinnedItemInfo parentTag="com.google.firebase.firestore.core.Query" memberName="path" />
+        <PinnedItemInfo parentTag="com.google.android.gms.location.ActivityRecognitionClient" memberName="zaa" />
+        <PinnedItemInfo parentTag="java.lang.String" memberName="shadow$_klass_" />
+        <PinnedItemInfo parentTag="androidx.lifecycle.MutableLiveData" memberName="mObservers" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Java Only (11263)">
+        <watch expression="calendar.getTime()" />
+      </configuration>
+      <configuration name="AndroidRunConfigurationType">
+        <watch expression="((ComponentName)((Intent)intent).mComponent).mPackage" custom="android.content.ComponentName,android.content.Intent" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orange"
+    tools:context=".OneTimeScreens.AddProfilePictureActivity">
+
+    <TextView
+        android:id="@+id/txt_title_add_profile_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:text="@string/title_add_profile"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16ssp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/txt_sub_title_add_profile_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:gravity="center"
+        android:text="@string/add_profile_info"
+        android:textColor="@color/white_with_opacity"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@id/txt_title_add_profile_pic"
+        app:layout_constraintStart_toStartOf="@id/txt_title_add_profile_pic"
+        app:layout_constraintTop_toBottomOf="@id/txt_title_add_profile_pic"/>
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/img_profile_background_layer"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_100sdp"
+        android:scaleType="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.364"
+        app:layout_constraintWidth_percent="0.8"
+        app:round="@dimen/_10sdp"
+        app:srcCompat="@drawable/add_profile_screen_background_placeholder" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_100sdp"
+        android:background="@drawable/white_rectangle_outline"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.364"
+        app:layout_constraintWidth_percent="0.8"/>
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/img_profile"
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:scaleType="fitXY"
+        android:src="@drawable/add_profile_img_placeholder"
+        app:layout_constraintBottom_toTopOf="@id/img_profile_background_layer"
+        app:layout_constraintEnd_toEndOf="@id/img_profile_background_layer"
+        app:layout_constraintStart_toStartOf="@id/img_profile_background_layer"
+        app:layout_constraintTop_toTopOf="@id/img_profile_background_layer"
+        app:roundPercent="1"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:background="@drawable/white_circle_outline"
+        app:layout_constraintBottom_toTopOf="@id/img_profile_background_layer"
+        app:layout_constraintEnd_toEndOf="@id/img_profile_background_layer"
+        app:layout_constraintStart_toStartOf="@id/img_profile_background_layer"
+        app:layout_constraintTop_toTopOf="@id/img_profile_background_layer"/>
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_upload_img"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:background="@drawable/drawable_square_button"
+        android:text="@string/upload_photo"
+        android:textColor="@color/orange"
+        android:textStyle="bold"
+        app:backgroundTint="@color/white"
+        app:icon="@drawable/ic_capture"
+        app:iconGravity="textStart"
+        app:iconPadding="@dimen/_15sdp"
+        app:iconSize="@dimen/_24sdp"
+        app:iconTint="#B3000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/img_profile_background_layer"
+        app:layout_constraintWidth_percent="0.8"/>
+
+    <TextView
+        android:id="@+id/txt_footer_add_profile_pic"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_15sdp"
+        android:gravity="center"
+        android:text="@string/location_sharing_info"
+        android:textColor="@color/white_with_opacity"
+        android:textSize="@dimen/_12ssp"
+        app:layout_constraintBottom_toTopOf="@id/btn_cont_add_profile_pic"
+        app:layout_constraintEnd_toEndOf="@id/btn_cont_add_profile_pic"
+        app:layout_constraintStart_toStartOf="@id/btn_cont_add_profile_pic"
+        app:layout_constraintWidth_percent="0.7"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_cont_add_profile_pic"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/disabled_round_button"
+        android:enabled="false"
+        android:text="@string/txt_continue"
+        app:layout_constraintBottom_toTopOf="@+id/adaptiveBanner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_upload_img"
+        app:layout_constraintWidth_percent="0.8" />
+
+    <TextView
+        android:id="@+id/txt_skip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:padding="@dimen/_10sdp"
+        android:text="@string/skip"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_12ssp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@id/btn_cont_add_profile_pic"
+        app:layout_constraintStart_toStartOf="@id/btn_cont_add_profile_pic"
+        app:layout_constraintTop_toBottomOf="@id/btn_cont_add_profile_pic"/>
+
+    <!--Adaptive Banner-->
+    <FrameLayout
+        android:id="@+id/adaptiveBanner"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/background_ads_adaptive_banner"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

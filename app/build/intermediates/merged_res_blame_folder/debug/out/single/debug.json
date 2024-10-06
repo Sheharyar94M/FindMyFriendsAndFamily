@@ -1,0 +1,1286 @@
+[
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_bg_tab_selected.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/bg_tab_selected.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/raw_no_data_found.json.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/raw/no_data_found.json"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_delete_circle_member.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_delete_circle_member.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_layout_sheet.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_layout_sheet.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxhdpi_cycling_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xxhdpi/cycling_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_add.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_driving_icon_state.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/driving_icon_state.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_contact_detail.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_contact_detail.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_create_new_password.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_create_new_password.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-ldpi_boarding_marker.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-ldpi/boarding_marker.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_message_24.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_message_24.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_reset_password_email.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_reset_password_email.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/xml_data_extraction_rules.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_permission_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_permission_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_about.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_about.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_settings.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_settings.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_disabled_square_button.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/disabled_square_button.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_check_circle.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-hdpi_cycling_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-hdpi/cycling_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_round_dialog_corners.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/round_dialog_corners.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_add_contact_from_phone.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_add_contact_from_phone.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_movement_record_itemview_circle.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/movement_record_itemview_circle.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_capture.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_capture.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ripple_background.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ripple_background.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_emerg_sos_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/emerg_sos_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_square_button.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_square_button.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_location_dialog_two.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_location_dialog_two.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_week_data.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_week_data.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_edit_text_cursor_white.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/edit_text_cursor_white.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_map_type.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_map_type.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_white_toolbar.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_white_toolbar.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_general_screen_one.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_general_screen_one.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-hdpi_safety_icon_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-hdpi/safety_icon_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_start_screen.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_start_screen.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-hdpi_boarding_marker.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-hdpi/boarding_marker.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_membership_icon_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/membership_icon_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_white_circle_outline.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/white_circle_outline.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_subscription_itemview.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/subscription_itemview.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_battery_good.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_battery_good.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_added_contact_item.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_added_contact_item.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_white_rectangle_outline.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/white_rectangle_outline.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/font_inter_regular.ttf.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/raw_no_search_result.json.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/raw/no_search_result.json"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_safety_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_safety_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_location_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/location_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxhdpi_location_onboarding.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxhdpi/location_onboarding.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_join_circle_first_screen.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_join_circle_first_screen.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxxhdpi_progress.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxxhdpi/progress.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_messages_item.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_messages_item.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_round_no_padding.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_round_no_padding.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_general_screen_one_img.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/general_screen_one_img.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_driving.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_driving.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_emergency_sos.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_emergency_sos.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_general_screen_two.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_general_screen_two.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/navigation_mobile_navigtion.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/navigation/mobile_navigtion.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_message_send.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_message_send.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/anim_bottom_anim.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/anim/bottom_anim.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xhdpi_safety_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xhdpi/safety_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_battery_low_charging.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_battery_low_charging.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_round_outline.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_round_outline.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_starting_list_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/starting_list_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_search_chat.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_search_chat.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_subscriptionlist_itemview_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/subscriptionlist_itemview_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_walking_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/walking_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_loc.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_loc.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_still_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/still_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_members_list_itemview.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_members_list_itemview.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_image_placeholder.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/image_placeholder.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_circle_management.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_circle_management.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-hdpi_safety_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-hdpi/safety_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_driving_icon_.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/driving_icon_.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_loc_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_loc_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_line_bottom_sheet.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_line_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_emergency_location.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_emergency_location.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_movement_record_itemview_dot.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/movement_record_itemview_dot.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_update_password.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/update_password.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_marker.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_marker.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_user_location.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/user_location.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_subscriptionlist_itemview.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/subscriptionlist_itemview.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_circle_drawable_white_with_orange_stroke.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/circle_drawable_white_with_orange_stroke.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_add_contact_list_item.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/add_contact_list_item.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_gallery_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_gallery_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_emergency_contact_dashboard.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_emergency_contact_dashboard.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_battery_low.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_battery_low.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxhdpi_safety_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xxhdpi/safety_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-ldpi_safety_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-ldpi/safety_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_tab_selector.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_pin_entered.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_pin_entered.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_cancel.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_activity_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_activity_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/anim_top_anim.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/anim/top_anim.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxhdpi_items_all.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxhdpi/items_all.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_chat_detail.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_chat_detail.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_add_people.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_add_people.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xhdpi_boarding_marker.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xhdpi/boarding_marker.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxxhdpi_safety_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xxxhdpi/safety_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_no_group_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_no_group_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/anim_slide_down.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_edit_text_cursor_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/edit_text_cursor_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxxhdpi_location_onboarding.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxxhdpi/location_onboarding.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_no_member_profile_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_no_member_profile_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_forward_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/forward_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_delete_account.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/delete_account.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_otp.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_otp.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/anim_slide_up.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_grey_bottom.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_grey_bottom.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-ldpi_items_all.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-ldpi/items_all.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_round_items_greyborders.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/round_items_greyborders.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_icon_otp_screen.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/icon_otp_screen.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_add_member.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_add_member.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_chat_image_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_chat_image_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_name_sign_up.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_name_sign_up.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_join_circle.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_join_circle.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_location_icon_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/location_icon_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xhdpi_safety_icon_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xhdpi/safety_icon_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxxhdpi_items_all.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxxhdpi/items_all.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_safety.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_safety.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xhdpi_progress.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xhdpi/progress.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_tablayout_background.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/tablayout_background.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-ldpi_cycling_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-ldpi/cycling_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_circle_name_drawable_round.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/circle_name_drawable_round.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_recycler_activity_item_shimmer_view.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/recycler_activity_item_shimmer_view.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_viewpager_tablayout_itemview.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/viewpager_tablayout_itemview.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-ldpi_location_onboarding.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-ldpi/location_onboarding.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_emergency_contact_landing.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_emergency_contact_landing.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_tick_circle.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/tick_circle.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_home.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_circle_management.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_circle_management.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_progress_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_progress_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_general_screen_two_img.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/general_screen_two_img.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_send.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_send_sms_permission_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_send_sms_permission_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-mdpi_cycling_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-mdpi/cycling_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_no_pin.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_no_pin.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-anydpi-v24_safety_icon_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-anydpi-v24/safety_icon_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_driving_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/driving_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_live_loc.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_live_loc.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_icon_reset_email.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/icon_reset_email.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_user_location2.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/user_location2.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_background_add_emergency_contact.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/background_add_emergency_contact.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_contact_state_list.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_contact_state_list.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_warning.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_pin_view_state_list.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/pin_view_state_list.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/transition_screens_transitions.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/transition/screens_transitions.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_update_phone_no.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_update_phone_no.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_photo_camera.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_photo_camera.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_round_outline_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_round_outline_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-anydpi-v24_cycling_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-anydpi-v24/cycling_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xhdpi_cycling_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xhdpi/cycling_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/anim_no_animation.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/anim/no_animation.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_background_start_screen.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/background_start_screen.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_subscription.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_subscription.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_safety_icon_state.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/safety_icon_state.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_year_data.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_year_data.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_disabled_round_button.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/disabled_round_button.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_gps_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_gps_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_location_icon_states.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/location_icon_states.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxxhdpi_boarding_marker.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxxhdpi/boarding_marker.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_email_sign_up.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_email_sign_up.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_background_ads_adaptive_banner.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/background_ads_adaptive_banner.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_nothing_found_dialog_layout.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/nothing_found_dialog_layout.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_edit_circle_name.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_edit_circle_name.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_toolbar_list_item.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/toolbar_list_item.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_sign_out.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_sign_out.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/font_inter_semibold.ttf.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_hand.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_hand.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_messaging.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_messaging.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_calendar.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_toast_layout.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/toast_layout.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_activity_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/activity_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_personal_data.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_personal_data.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_shimmer_fragment_view.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/shimmer_fragment_view.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_month_data.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_month_data.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_toolbar.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_background_ripple.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/background_ripple.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxhdpi_boarding_marker.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxhdpi/boarding_marker.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_phone_no_sign_up.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_phone_no_sign_up.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_add_profile_picture.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_add_profile_picture.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_phone_no_sign_in.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_phone_no_sign_in.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_chat_item.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_chat_item.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_bg_tab_un_selected.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/bg_tab_un_selected.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-hdpi_progress.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-hdpi/progress.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_bell_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/bell_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_no_members_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/no_members_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_driving_icon_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/driving_icon_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_check.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-mdpi_boarding_marker.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-mdpi/boarding_marker.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_safety.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_safety.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_add_contact_manually.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_add_contact_manually.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_white_rounded_button.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/white_rounded_button.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-ldpi_safety_icon_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-ldpi/safety_icon_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_places.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_places.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_membership_icon_state.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/membership_icon_state.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_back_arrow.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_back_arrow.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_top_radius.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_top_radius.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_account_dashboard.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_account_dashboard.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_battery_good_charging.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_battery_good_charging.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_car_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/car_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-mdpi_location_onboarding.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-mdpi/location_onboarding.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_round_permission_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/round_permission_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_chat_dashboard.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_chat_dashboard.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_message_received.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_message_received.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_view_circle_member.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_view_circle_member.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxhdpi_safety_icon_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xxhdpi/safety_icon_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_add_members.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_add_members.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-mdpi_safety_icon_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-mdpi/safety_icon_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_leave_circle.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/leave_circle.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_email_sign_in.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_email_sign_in.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_profile_info_update.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_profile_info_update.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_location.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_location.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_password_reset_ph_num_state_list.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/password_reset_ph_num_state_list.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_no_messages.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_no_messages.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-ldpi_progress.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-ldpi/progress.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_check_email.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_check_email.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_hybrid_map.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/hybrid_map.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_permission_screen_img.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/permission_screen_img.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_features_itemview.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/features_itemview.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_circle_selection.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_circle_selection.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_settings.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xhdpi_items_all.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xhdpi/items_all.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_edit_text_cursor_black.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/edit_text_cursor_black.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/xml_backup_rules.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_permission_dialog2.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_permission_dialog2.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_orange_rounded_button.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/orange_rounded_button.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_default_map.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/default_map.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_features_itemview_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/features_itemview_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_share_circle_code.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_share_circle_code.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_delete_circle_member.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_delete_circle_member.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_round_button_orange_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/round_button_orange_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_no_member_profile.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_no_member_profile.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/menu_menu_add_contact.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/menu/menu_add_contact.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/xml_file_paths.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_calendar_view.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_calendar_view.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_error.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_tab_item_layout.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/tab_item_layout.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_bg_triangle_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/bg_triangle_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xhdpi_location_onboarding.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xhdpi/location_onboarding.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_create_circle.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_create_circle.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_bg_triangle.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/bg_triangle.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-hdpi_location_onboarding.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-hdpi/location_onboarding.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_terrain_map.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/terrain_map.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-anydpi-v24_safety_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-anydpi-v24/safety_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_location_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_location_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_view_circle_member.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_view_circle_member.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_edit_phone_no.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/edit_phone_no.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_bottom_sheet_map_type.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_bottom_sheet_map_type.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-mdpi_safety_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-mdpi/safety_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_footprint_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/footprint_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_round_button_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/round_button_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxhdpi_progress.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-xxhdpi/progress.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_bicycle_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/bicycle_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_tab_all_items_layout.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/tab_all_items_layout.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-hdpi_items_all.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-hdpi/items_all.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_join_circle_main.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_join_circle_main.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_add_profile_img_placeholder.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/add_profile_img_placeholder.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_charts_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/charts_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_camera_dialog.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_camera_dialog.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_add_new_member.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_add_new_member.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_bottom_sheet.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_activity_icon_state.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/activity_icon_state.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_white_bottom.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_white_bottom.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-mdpi_progress.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-mdpi/progress.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_location_pin_icon_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/location_pin_icon_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxxhdpi_cycling_icon.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xxxhdpi/cycling_icon.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_tab_item_profile_image_background.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/tab_item_profile_image_background.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_red_circle_drawable.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/red_circle_drawable.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_movement_record_itemview_dot_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/movement_record_itemview_dot_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_create_circle_main.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_create_circle_main.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_membership_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/membership_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_recycler_view_bottom_sheet.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_recycler_view_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_satellite_map.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/satellite_map.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_reset_password_phone.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_reset_password_phone.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_add_button.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/add_button.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_recycler_item_shimmer_view.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/recycler_item_shimmer_view.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_placeholder_features.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/placeholder_features.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_fragment_day_data.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/fragment_day_data.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_contact_detail_square.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_contact_detail_square.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_create_password.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_create_password.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_enter_password_sign_in.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_enter_password_sign_in.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_recent_authentication.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_recent_authentication.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_splash.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-mdpi_items_all.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable-mdpi/items_all.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_share_circle_code_main.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_share_circle_code_main.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_view_members.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/view_members.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_forward_icon_shimmer.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/forward_icon_shimmer.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_pin_view_orange_outline.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/pin_view_orange_outline.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_request_permission.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_request_permission.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_drawable_circle_safety_frag.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/drawable_circle_safety_frag.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_location_pin_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/location_pin_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_activity_icon_orange.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/activity_icon_orange.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_search.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_add_profile_screen_background_placeholder.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/add_profile_screen_background_placeholder.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_activity_member_location.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/activity_member_location.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable-xxxhdpi_safety_icon_orange.png.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-pngs-67:/drawable-xxxhdpi/safety_icon_orange.png"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_layout_dialog_add_emergncy_contact.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/layout_dialog_add_emergncy_contact.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/layout_custom_marker.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/layout/custom_marker.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_problem.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_problem.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_running_icon.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/running_icon.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_notification_off.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_notification_off.xml"
+    },
+    {
+        "merged": "com.care360.findmyfamilyandfriends.app-merged_res-72:/drawable_ic_arrow_forward.xml.flat",
+        "source": "com.care360.findmyfamilyandfriends.app-main-74:/drawable/ic_arrow_forward.xml"
+    }
+]

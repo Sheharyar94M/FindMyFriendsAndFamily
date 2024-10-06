@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/title_icon"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:src="@drawable/boarding_marker"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/txt_title_perm"
+        app:tint="@color/orange"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/txt_title_perm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/title"
+        android:textAlignment="center"
+        android:textColor="#99000000"
+        android:textSize="18sp"
+        android:fontFamily="@font/inter_semibold"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title_icon"
+        app:layout_constraintBottom_toTopOf="@+id/txt_desc_perm"/>
+
+    <TextView
+        android:id="@+id/txt_desc_perm"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:text="@string/dialog_desc_location"
+        android:textAlignment="center"
+        android:textColor="#99000000"
+        android:textSize="12sp"
+        android:fontFamily="@font/inter_semibold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_title_perm"
+        app:layout_constraintBottom_toTopOf="@+id/permission_image"/>
+
+    <ImageView
+        android:id="@+id/permission_image"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/location_onboarding"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/agree_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_desc_perm"
+        tools:ignore="ContentDescription" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/agree_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/permission_image"
+        android:layout_margin="15dp"
+        android:clickable="true"
+        android:focusable="true">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="@string/agree"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:background="@drawable/background_ripple"
+            android:layout_gravity="center"
+            android:paddingStart="25dp"
+            android:paddingEnd="25dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            />
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

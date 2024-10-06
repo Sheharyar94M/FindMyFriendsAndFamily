@@ -1,0 +1,197 @@
+plugins {
+    id 'com.android.application'
+
+    // Firebase plugin
+    id 'com.google.gms.google-services'
+    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
+    id 'dagger.hilt.android.plugin'
+    id 'kotlin-kapt'
+}
+
+android {
+    compileSdk 34
+    namespace 'com.care360.findmyfamilyandfriends'
+
+    signingConfigs {
+        release {
+            storeFile file('D:\\projects\\Keys\\SignedKeys\\FindMyFamilyandFriendsKeystore.jks')
+            storePassword '123456'
+            keyAlias 'key0'
+            keyPassword '123456'
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.care360.findmyfamilyandfriends"
+        minSdk 23
+        targetSdk 34
+        versionCode 8
+        versionName "2.35"
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            manifestPlaceholders = [releaseApplicationId : RELEASE_APPLICATION_ID]
+            buildConfigField "String", "BANNER_AD_ID",RELEASE_BANNER_ID
+            buildConfigField "String", "INTERSTITIAL_AD_ID",RELEASE_INTERSTITIAL_ID
+            buildConfigField "String", "NATIVE_AD_ID",RELEASE_NATIVE_ID
+
+            debuggable false
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug{
+            manifestPlaceholders = [debugApplicationId : TEST_APPLICATION_ID]
+            buildConfigField "String", "BANNER_AD_ID",TEST_BANNER_ID
+            buildConfigField "String", "INTERSTITIAL_AD_ID",TEST_INTERSTITIAL_ID
+            buildConfigField "String", "NATIVE_AD_ID",TEST_NATIVE_ID
+
+            debuggable true
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+    lint {
+        abortOnError true
+        checkReleaseBuilds false
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    //app-check
+    implementation 'com.google.firebase:firebase-appcheck'
+    implementation 'com.google.firebase:firebase-appcheck-safetynet'
+    implementation 'com.google.firebase:firebase-appcheck-playintegrity'
+    implementation 'com.google.firebase:firebase-appcheck-interop'
+
+    //shimmer views
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+    //hilt
+    annotationProcessor 'com.google.dagger:hilt-compiler:2.46.1'
+//    implementation 'com.stripe:stripe-android:18.2.0'
+    implementation 'com.google.dagger:hilt-android:2.46.1'
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    //gradle resolution issues
+    implementation 'androidx.core:core:1.10.1'
+    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+
+    //sdp
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+    //ssp
+    implementation 'com.intuit.ssp:ssp-android:1.1.0'
+
+    // Import the Firebase BoMF
+    implementation platform('com.google.firebase:firebase-bom:30.3.1')
+
+    //firebase authentication
+    implementation 'com.google.firebase:firebase-auth'
+
+    //firestore
+    implementation 'com.google.firebase:firebase-firestore'
+
+    //dynamic link
+    implementation 'com.google.firebase:firebase-dynamic-links'
+
+    // firebase cloud messages and analytics
+    implementation 'com.google.firebase:firebase-messaging'
+    implementation 'com.google.firebase:firebase-analytics'
+
+    //country code picker
+    implementation 'com.hbb20:ccp:2.5.0'
+
+    //for phone number verification
+    implementation 'com.googlecode.libphonenumber:libphonenumber:8.12.45'
+
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.13.2'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.13.2'
+
+    //google maps
+    implementation 'com.google.android.gms:play-services-maps:18.1.0'
+    implementation 'com.google.android.gms:play-services-location:21.0.1'
+
+    //firebase storage
+    implementation 'com.google.firebase:firebase-storage'
+
+    //Room DB
+    implementation "androidx.room:room-runtime:$rootProject.roomVersion"
+    annotationProcessor "androidx.room:room-compiler:$rootProject.roomVersion"
+    androidTestImplementation "androidx.room:room-testing:$rootProject.roomVersion"
+
+    // work manager
+    implementation "androidx.work:work-runtime:$work_version"
+
+    //volley dependency
+    implementation 'com.android.volley:volley:1.2.1'
+
+    implementation 'com.google.android.gms:play-services-ads:22.2.0'
+
+    implementation project(":nativetemplates")
+
+    implementation "com.android.billingclient:billing:5.2.0"
+    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'
+    implementation 'com.google.guava:guava:24.1-jre'
+
+    //in-app-update-dependency
+    implementation 'com.google.android.play:core:1.10.3'
+
+    implementation 'com.github.AtifSayings:Animatoo:1.0.1'
+
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.6.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1'
+    implementation 'androidx.navigation:navigation-fragment:2.5.3'
+    implementation 'androidx.navigation:navigation-ui:2.5.3'
+
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.6.1'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4'
+
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    //Timber
+//    implementation 'com.jakewharton.timber:timber:4.7.1'
+
+    // Easy Permissions
+    implementation 'pub.devrel:easypermissions:3.0.0'
+
+    //Notification Library
+    implementation "io.karn:notify:1.3.0"
+
+    //chart library
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+    implementation("androidx.multidex:multidex:2.0.1")
+
+    //debug duplicate classes (Solution) {it appeared when project moved to android 13}
+
+    implementation 'androidx.core:core-splashscreen:1.0.1'
+
+    implementation 'com.airbnb.android:lottie:5.2.0'
+
+    implementation 'com.google.android.gms:play-services-ads:22.1.0'
+
+    implementation 'com.google.code.gson:gson:2.9.0'
+}

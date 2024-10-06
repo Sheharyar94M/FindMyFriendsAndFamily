@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1088376565277",
+    "project_id": "find-my-family-1c0c1",
+    "storage_bucket": "find-my-family-1c0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088376565277:android:fa893197dc4f0956f3e0f4",
+        "android_client_info": {
+          "package_name": "com.admin.findmyfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088376565277-s34kk5uajs0sm3dfojqvjl18b13aim8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.findmyfamily",
+            "certificate_hash": "c72d2a7d1b5a7618e69f3f9c7e2f801ea9e0379a"
+          }
+        },
+        {
+          "client_id": "1088376565277-s55ml835sdrkl7vu11psc6fvcoar2csd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5NGNagwjPeaQQ2XGodhBqPRNEL8sM84"
+        },
+        {
+          "current_key": "AIzaSyBE9d03i-pCJMyNCOgwL298fVvJeeCetOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088376565277-s55ml835sdrkl7vu11psc6fvcoar2csd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088376565277:android:0dc98f45fd07c44ef3e0f4",
+        "android_client_info": {
+          "package_name": "com.care360.findmyfamilyandfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088376565277-d0fn4ejps5l0cdi53imq773b4tql9vh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.care360.findmyfamilyandfriends",
+            "certificate_hash": "c72d2a7d1b5a7618e69f3f9c7e2f801ea9e0379a"
+          }
+        },
+        {
+          "client_id": "1088376565277-s55ml835sdrkl7vu11psc6fvcoar2csd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5NGNagwjPeaQQ2XGodhBqPRNEL8sM84"
+        },
+        {
+          "current_key": "AIzaSyBE9d03i-pCJMyNCOgwL298fVvJeeCetOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088376565277-s55ml835sdrkl7vu11psc6fvcoar2csd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeScreen.ui.FragmentLocation.JoinCircle.JoinCircleMainActivity"
+    tools:ignore="Autofill,LabelFor" >
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_join_circle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/orange"
+        android:paddingStart="@dimen/_5sdp"
+        android:paddingEnd="@dimen/_5sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_arrow_back"
+        app:title="Join Circle"
+        app:titleTextColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/enter_invite_code"
+        android:textColor="?android:attr/textColorPrimary"
+        android:textSize="@dimen/_18ssp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.15"/>
+
+    <androidx.constraintlayout.helper.widget.Flow
+        android:id="@+id/flow_pin_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:padding="@dimen/_5sdp"
+        app:constraint_referenced_ids="edt_input_1,edt_input_2,edt_input_3,edt_input_4,edt_input_5,edt_input_6"
+        app:flow_horizontalGap="@dimen/_10sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_title"/>
+
+    <EditText
+        android:id="@+id/edt_input_1"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/pin_view_state_list"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:inputType="textCapCharacters"
+        android:maxLength="1"
+        android:padding="@dimen/_5sdp"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edt_input_2"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/pin_view_state_list"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:inputType="textCapCharacters"
+        android:maxLength="1"
+        android:padding="@dimen/_5sdp"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edt_input_3"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/pin_view_state_list"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:inputType="textCapCharacters"
+        android:maxLength="1"
+        android:padding="@dimen/_5sdp"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edt_input_4"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/pin_view_state_list"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:inputType="textCapCharacters"
+        android:maxLength="1"
+        android:padding="@dimen/_5sdp"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edt_input_5"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/pin_view_state_list"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:inputType="textCapCharacters"
+        android:maxLength="1"
+        android:padding="@dimen/_5sdp"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edt_input_6"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/pin_view_state_list"
+        android:cursorVisible="true"
+        android:gravity="center"
+        android:inputType="textCapCharacters"
+        android:maxLength="1"
+        android:padding="@dimen/_5sdp"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:text="@string/enter_circle_invite_code"
+        android:textAlignment="center"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintEnd_toEndOf="@id/flow_pin_view"
+        app:layout_constraintStart_toStartOf="@id/flow_pin_view"
+        app:layout_constraintTop_toBottomOf="@id/flow_pin_view"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_submit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:background="@drawable/disabled_round_button"
+        android:enabled="false"
+        android:text="@string/submit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_description"
+        app:layout_constraintWidth_percent="0.8"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@id/btn_submit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_title"/>
+
+    <com.google.android.ads.nativetemplates.TemplateView
+        android:id="@+id/ad_template"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:gnt_template_type="@layout/gnt_medium_template_view"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

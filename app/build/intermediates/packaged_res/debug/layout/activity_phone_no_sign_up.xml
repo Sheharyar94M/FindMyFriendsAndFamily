@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orange"
+    tools:context=".auth.SignUp.PhoneNoSignUpActivity">
+
+    <TextView
+        android:id="@+id/txt_1_phone_sign_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:gravity="center"
+        android:text="@string/title_phone_sign_up"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16ssp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <com.hbb20.CountryCodePicker
+        android:id="@+id/country_code_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_35sdp"
+        app:ccpDialog_cornerRadius="@dimen/_20sdp"
+        app:ccpDialog_fastScroller_handleColor="@color/orange"
+        app:ccpDialog_searchEditTextTint="@color/orange"
+        app:ccpDialog_showCloseIcon="true"
+        app:ccpDialog_showFastScroller="true"
+        app:ccpDialog_showFlag="true"
+        app:ccpDialog_showPhoneCode="true"
+        app:ccp_areaCodeDetectedCountry="true"
+        app:ccp_arrowColor="@color/white"
+        app:ccp_arrowSize="@dimen/_22sdp"
+        app:ccp_autoDetectCountry="true"
+        app:ccp_autoFormatNumber="true"
+        app:ccp_contentColor="@color/white"
+        app:ccp_showFlag="true"
+        app:ccp_showNameCode="false"
+        app:ccp_textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_1_phone_sign_up"/>
+
+    <EditText
+        android:id="@+id/edt_phone_sign_up"
+        style="@style/AutoFillHintStyle"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="0dp"
+        android:backgroundTint="@color/orange"
+        android:cursorVisible="true"
+        android:hint="@string/enter_number"
+        android:imeOptions="actionDone"
+        android:importantForAutofill="no"
+        android:inputType="number"
+        android:textColor="@color/white"
+        android:textColorHint="#CCFFFFFF"
+        android:textCursorDrawable="@drawable/edit_text_cursor_white"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@id/country_code_picker"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/country_code_picker"
+        app:layout_constraintTop_toTopOf="@id/country_code_picker"
+        tools:ignore="TextFields" />
+
+    <TextView
+        android:id="@+id/txt_privacy_policy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_15sdp"
+        android:gravity="center"
+        android:text="@string/privacy_policy_phone_sign_up"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_10ssp"
+        app:layout_constraintBottom_toTopOf="@id/btn_cont_phone_sign_up"
+        app:layout_constraintEnd_toEndOf="@id/btn_cont_phone_sign_up"
+        app:layout_constraintStart_toStartOf="@id/btn_cont_phone_sign_up"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_cont_phone_sign_up"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/disabled_round_button"
+        android:enabled="false"
+        android:text="@string/txt_continue"
+        android:textColor="@color/orange"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/country_code_picker"
+        app:layout_constraintWidth_percent="0.8" />
+
+<!--    &lt;!&ndash;Adaptive Banner&ndash;&gt;-->
+<!--    <FrameLayout-->
+<!--        android:id="@+id/adaptiveBanner"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="55dp"-->
+<!--        android:background="@drawable/background_ads_adaptive_banner"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent">-->
+
+<!--    </FrameLayout>-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

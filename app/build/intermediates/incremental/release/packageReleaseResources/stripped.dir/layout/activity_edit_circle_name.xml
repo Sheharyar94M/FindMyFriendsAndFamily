@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orange"
+    tools:context=".HomeScreen.ui.FragmentLocation.Settings.CircleManagement.EditCircleNameActivity"
+    tools:ignore="RtlSymmetry">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_update_circle_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/orange"
+        android:paddingStart="@dimen/_5sdp"
+        android:paddingEnd="@dimen/_5sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_arrow_back"
+        app:title="Edit Circle Name"
+        app:titleTextColor="@color/white"/>
+
+    <EditText
+        android:id="@+id/edt_txt_circle_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:autofillHints="@null"
+        android:background="@drawable/drawable_square_button"
+        android:backgroundTint="@color/orange"
+        android:cursorVisible="true"
+        android:hint="@string/enter_circle_name"
+        android:imeOptions="actionDone"
+        android:inputType="text"
+        android:padding="@dimen/_10sdp"
+        android:paddingStart="@dimen/_15sdp"
+        android:textColor="@color/white"
+        android:textColorHint="#CCFFFFFF"
+        android:textCursorDrawable="@drawable/edit_text_cursor_white"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar_update_circle_name"
+        app:layout_constraintWidth_percent="0.8">
+
+        <requestFocus/>
+
+    </EditText>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_update_circle_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/disabled_round_button"
+        android:enabled="false"
+        android:text="@string/update_circle_name"
+        android:textColor="@color/orange"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/edt_txt_circle_name"
+        app:layout_constraintVertical_bias="0.8"
+        app:layout_constraintWidth_percent="0.8"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:theme="@style/Progress_bar"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cons_member_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/img_view_member_profile"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/drawable_no_member_profile"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:roundPercent="1" />
+
+    <TextView
+        android:id="@+id/txt_view_member_first_char"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_18ssp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@id/img_view_member_profile"
+        app:layout_constraintEnd_toEndOf="@id/img_view_member_profile"
+        app:layout_constraintStart_toStartOf="@id/img_view_member_profile"
+        app:layout_constraintTop_toTopOf="@id/img_view_member_profile"
+        tools:text="J"
+        tools:visibility="visible"/>
+
+    <TextView
+        android:id="@+id/txt_view_member_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@id/img_view_member_profile"
+        app:layout_constraintTop_toTopOf="@id/img_view_member_profile"
+        tools:text="Jhonny Depp" />
+
+    <TextView
+        android:id="@+id/txt_view_last_known_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:maxLength="55"
+        android:textColor="#A6000000"
+        android:textSize="11sp"
+        app:layout_constraintStart_toStartOf="@id/txt_view_member_name"
+        app:layout_constraintTop_toBottomOf="@id/txt_view_member_name"
+        tools:text="Sector E, DHA Rawalpindi, Pakistan" />
+
+    <TextView
+        android:id="@+id/txt_view_timestamp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:textColor="@color/orange"
+        android:textSize="11sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@id/txt_view_last_known_address"
+        app:layout_constraintStart_toStartOf="@id/txt_view_last_known_address"
+        app:layout_constraintTop_toBottomOf="@id/txt_view_last_known_address"
+        tools:text="@string/last_seen"/>
+
+    <TextView
+        android:id="@+id/txt_view_bottom_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:background="@drawable/drawable_line_bottom_sheet"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_view_timestamp"/>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/view_complete_member"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:elevation="15dp"
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/txt_view_last_known_address"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/forward_icon" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

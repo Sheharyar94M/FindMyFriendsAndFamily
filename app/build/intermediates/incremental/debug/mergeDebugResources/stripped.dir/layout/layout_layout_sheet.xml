@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_sheet_move"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/drawable_top_radius"
+    android:paddingTop="10dp"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="150dp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:fontFamily="@font/inter_semibold"
+        android:padding="10dp"
+        android:text="@string/activity_report"
+        android:textColor="#565656"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabs_profileList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/heading"
+        android:layout_marginTop="10dp"
+        app:tabBackground="@color/white"
+        app:tabIndicatorColor="@color/white"
+        app:tabMode="auto"
+        app:tabPadding="5dp"
+        app:tabTextColor="@color/black"/>
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tabs_profileList"
+        android:alpha="0.2"
+        android:background="@color/black"/>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabs_datatypeList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/tablayout_background"
+        app:tabBackground="@drawable/tab_selector"
+        app:tabIndicator="@null"
+        app:tabMode="auto"
+        app:tabPadding="5dp"
+        app:tabPaddingStart="10dp"
+        app:tabRippleColor="@android:color/transparent"
+        app:tabTextAppearance="@style/MyCustomTextAppearance"
+        app:tabTextColor="@color/black"
+        app:tabUnboundedRipple="false"
+        />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tabs_datatypeList"
+        android:layout_marginTop="10dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/all_membersList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tabs_datatypeList"
+        android:visibility="gone"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="vertical"
+        tools:itemCount="4"
+        tools:listitem="@layout/layout_members_list_itemview" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/no_results_L"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:elevation="15dp"
+        android:visibility="gone"
+        app:lottie_rawRes="@raw/no_search_result" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/noMembersFound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/no_results_L"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:fontFamily="@font/inter_semibold"
+        android:padding="10dp"
+        android:text="@string/no_members_in_this_circle_found"
+        android:textColor="@color/orange"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+</RelativeLayout>

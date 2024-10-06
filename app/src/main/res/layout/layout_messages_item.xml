@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/txt_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:text="@string/date"
+        android:textColor="#80000000"
+        android:textSize="@dimen/_12ssp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/text_message_received"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@drawable/drawable_message_received"
+        android:maxWidth="@dimen/_250sdp"
+        android:padding="@dimen/_10sdp"
+        android:text="@string/can_you_please_share_your_current_location"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_13ssp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txt_date"/>
+
+    <TextView
+        android:id="@+id/timestamp_message_received"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:text="@string/_4_30_pm"
+        android:textColor="#80000000"
+        android:textSize="@dimen/_10ssp"
+        app:layout_constraintStart_toStartOf="@id/text_message_received"
+        app:layout_constraintTop_toBottomOf="@id/text_message_received"/>
+
+    <TextView
+        android:id="@+id/text_message_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:background="@drawable/drawable_message_send"
+        android:maxWidth="@dimen/_250sdp"
+        android:padding="@dimen/_10sdp"
+        android:text="@string/okay_sure"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_13ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/timestamp_message_received"/>
+
+    <TextView
+        android:id="@+id/timestamp_message_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:text="@string/_4_30_pm"
+        android:textColor="#80000000"
+        android:textSize="@dimen/_10ssp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@id/text_message_send"
+        app:layout_constraintTop_toBottomOf="@id/text_message_send" />
+
+    <androidx.constraintlayout.widget.Group
+        android:id="@+id/cons_group_receive_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:constraint_referenced_ids="text_message_received,timestamp_message_received"/>
+
+    <androidx.constraintlayout.widget.Group
+        android:id="@+id/cons_group_send_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:constraint_referenced_ids="text_message_send,timestamp_message_send"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

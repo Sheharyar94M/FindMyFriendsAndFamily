@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OneTimeScreens.JoinCircleFirstScreenActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cons_1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.7"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txt_1_cons_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/title_join_circle"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.12"/>
+
+        <androidx.constraintlayout.helper.widget.Flow
+            android:id="@+id/flow_pin_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_5sdp"
+            app:constraint_referenced_ids="edt_input_1,edt_input_2,edt_input_3,edt_input_4,edt_input_5,edt_input_6"
+            app:flow_horizontalGap="@dimen/_10sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.35"/>
+
+        <EditText
+            android:id="@+id/edt_input_1"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:autofillHints="@null"
+            android:background="@drawable/pin_view_state_list"
+            android:cursorVisible="true"
+            android:gravity="center"
+            android:hint="@null"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:padding="@dimen/_5sdp"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edt_input_2"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:autofillHints="@null"
+            android:background="@drawable/pin_view_state_list"
+            android:cursorVisible="true"
+            android:gravity="center"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:padding="@dimen/_5sdp"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edt_input_3"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:autofillHints="@null"
+            android:background="@drawable/pin_view_state_list"
+            android:cursorVisible="true"
+            android:gravity="center"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:padding="@dimen/_5sdp"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edt_input_4"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:autofillHints="@null"
+            android:background="@drawable/pin_view_state_list"
+            android:cursorVisible="true"
+            android:gravity="center"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:padding="@dimen/_5sdp"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edt_input_5"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:autofillHints="@null"
+            android:background="@drawable/pin_view_state_list"
+            android:cursorVisible="true"
+            android:gravity="center"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:padding="@dimen/_5sdp"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/edt_input_6"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:autofillHints="@null"
+            android:background="@drawable/pin_view_state_list"
+            android:cursorVisible="true"
+            android:gravity="center"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:padding="@dimen/_5sdp"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/txt_msg_cons_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/you_may_need_to_ask_circle_to_send_code"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/_12ssp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/flow_pin_view"
+            app:layout_constraintStart_toStartOf="@id/flow_pin_view"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.55"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_submit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/disabled_round_button"
+            android:enabled="false"
+            android:text="@string/submit"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.8"
+            app:layout_constraintWidth_percent="0.8"/>
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toTopOf="@id/btn_submit"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_1_cons_1"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/circle_drawable_white_with_orange_stroke"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/or"
+        android:textColor="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="bold"
+        android:translationZ="@dimen/_100sdp"
+        app:layout_constraintBottom_toTopOf="@id/cons_2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cons_1"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cons_2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/orange"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.3"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/mat_txt_1_cons_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_40sdp"
+            android:text="@string/don_t_have_a_code"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16ssp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/mat_txt_2_cons_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:text="@string/we_ll_give_you_code_to_share"
+            android:textColor="@color/white_with_opacity"
+            android:textSize="@dimen/_12ssp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/mat_txt_1_cons_2"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_create_circle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/white_rounded_button"
+            android:text="@string/create_circle"
+            android:textColor="@color/orange"
+            app:backgroundTint="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.8"
+            app:layout_constraintWidth_percent="0.8"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

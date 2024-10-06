@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeScreen.ui.FragmentLocation.Settings.Account.UpdatePhoneNoActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_update_phone_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/orange"
+        android:paddingStart="@dimen/_5sdp"
+        android:paddingEnd="@dimen/_5sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_arrow_back"
+        app:title="Edit Phone Number"
+        app:titleTextColor="@color/white"/>
+
+    <com.hbb20.CountryCodePicker
+        android:id="@+id/ccp_update_phone_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_35sdp"
+        app:ccpDialog_cornerRadius="@dimen/_20sdp"
+        app:ccpDialog_fastScroller_handleColor="@color/black"
+        app:ccpDialog_searchEditTextTint="@color/black"
+        app:ccpDialog_showCloseIcon="true"
+        app:ccpDialog_showFastScroller="true"
+        app:ccpDialog_showFlag="true"
+        app:ccpDialog_showPhoneCode="true"
+        app:ccp_areaCodeDetectedCountry="true"
+        app:ccp_arrowColor="@color/black"
+        app:ccp_arrowSize="@dimen/_22sdp"
+        app:ccp_autoDetectCountry="true"
+        app:ccp_autoFormatNumber="true"
+        app:ccp_contentColor="@color/black"
+        app:ccp_showFlag="true"
+        app:ccp_showNameCode="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar_update_phone_no"/>
+
+    <EditText
+        android:id="@+id/edit_text_update_phone_no"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:backgroundTint="@color/white"
+        android:cursorVisible="true"
+        android:hint="@string/enter_number"
+        android:imeOptions="actionDone"
+        android:inputType="phone"
+        android:textColor="@color/black"
+        android:textCursorDrawable="@color/orange"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintBottom_toBottomOf="@id/ccp_update_phone_no"
+        app:layout_constraintStart_toEndOf="@id/ccp_update_phone_no"
+        app:layout_constraintTop_toTopOf="@id/ccp_update_phone_no"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_update_phone_no"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/disabled_round_button"
+        android:enabled="false"
+        android:text="@string/update"
+        android:textColor="@color/orange"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ccp_update_phone_no"
+        app:layout_constraintWidth_percent="0.8" />
+
+    <com.google.android.ads.nativetemplates.TemplateView
+        android:id="@+id/ad_template"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:gnt_template_type="@layout/gnt_medium_template_view"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
